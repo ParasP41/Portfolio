@@ -2,7 +2,7 @@ import React from 'react';
 import game from '../assets/game.jpg';
 import weather from '../assets/weather.jpg';
 import tic from '../assets/tic.jpg';
-import news from '../assets/news.jpg';
+import news from '../assets/News.jpg';
 import note from '../assets/note.jpg';
 
 export default function Work({ ref }) {
