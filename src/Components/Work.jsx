@@ -10,7 +10,7 @@ export default function Work({ ref }) {
         { name: "Climatic - Weather App", img: weather, link: "https://climatic-ivory.vercel.app/" },
         { name: "Zentry Clone", img: game, link: "https://zentry-five-henna.vercel.app/" },
         { name: "Tic-Tac-Toe Game", img: tic, link: "https://tic-tak-toe-sable.vercel.app/" },
-        { name: "Monkey App - News", img: news, link: "#" }, // Add the real link
+        { name: "Monkey App - News", img: news, link: "/" },
         { name: "iNoteBook", img: note, link: "https://i-note-book-omega.vercel.app/" },
     ];
 
