@@ -8,7 +8,7 @@ import { SiIntellijidea } from "react-icons/si";
 export default function Resume({ ref }) {
   return (
     <div ref={ref} className="px-5 py-10">
-      <h2 className="text-3xl md:text-4xl  font-bold text-center underline decoration-orange-500 underline-offset-8 mb-8">
+      <h2 className="text-3xl mx-9 md:text-4xl primary-color  font-bold underline decoration-orange-500 underline-offset-8 mb-8">
         RESUME
       </h2>
 

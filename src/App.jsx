@@ -22,17 +22,6 @@ export default function App() {
   const resumeRef = useRef(null);
   return (
     <>
-    {/* {size >780 ?
-    <div>
-      <Navbar handlerScroll={handlerScroll} resumeRef={resumeRef} homeRef={homeRef} contactRef={contactRef} workRef={workRef} aboutRef={aboutRef} />
-      <Hero ref={homeRef} />
-      <About ref={aboutRef}/>
-      <Resume ref={resumeRef}/>
-      <Work ref={workRef}/>
-      <Contact ref={contactRef} />
-    </div>
-    : <div className='h-screen bg-white text-xl' >This Site is only visible on the PC Screens</div>
-    } */}
     <Navbar handlerScroll={handlerScroll} resumeRef={resumeRef} homeRef={homeRef} contactRef={contactRef} workRef={workRef} aboutRef={aboutRef} />
       <Hero ref={homeRef} />
       <About ref={aboutRef}/>
